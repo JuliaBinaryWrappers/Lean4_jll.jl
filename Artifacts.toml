@@ -1,0 +1,56 @@
+[[Lean4]]
+arch = "aarch64"
+git-tree-sha1 = "4a443c1daa8b00fd1b7da411294076da8c51da24"
+os = "macos"
+
+    [[Lean4.download]]
+    sha256 = "bd4d5403738450b206a2be5ad364a42e51e296bb355c5e617c9b33faf99b0449"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.aarch64-apple-darwin.tar.gz"
+[[Lean4]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4eb965ee4f321c174d94d13aea4f12ed266bb89"
+libc = "glibc"
+os = "linux"
+
+    [[Lean4.download]]
+    sha256 = "644ccf04ba713e9b2ca357d1d40eae253aa7dce86d1010de7b6ea747688f46fb"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Lean4]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27c1af5fd7c46a17d3a73ca3e7eb58bdd09e93f4"
+libc = "musl"
+os = "linux"
+
+    [[Lean4.download]]
+    sha256 = "8cc34705136e8514a7301d2e606faa5b4117a650a8c02c8ffe4dc8755d1ba8ec"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Lean4]]
+arch = "x86_64"
+git-tree-sha1 = "3fa473fa8043f4850af9fd162bf38e3777aab275"
+os = "macos"
+
+    [[Lean4.download]]
+    sha256 = "8e460976007f5fcffb3a0e75296e32f05da69c0d0ce128dbc4510650a9657913"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.x86_64-apple-darwin.tar.gz"
+[[Lean4]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fb49636dacdea84ac12fb002f6e0d5c4c09da13"
+libc = "glibc"
+os = "linux"
+
+    [[Lean4.download]]
+    sha256 = "32e35d9854d88eeece237efc52fc52fe5bddcc598e7f1c90236987765df4f0f8"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Lean4]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81553652a635dc4ad6ad4ccf4351a3f413ffefbb"
+libc = "musl"
+os = "linux"
+
+    [[Lean4.download]]
+    sha256 = "1379352059d5b4baadc7cc7a0fc71180749c1b0dbdfb98bbd5917760ea0efcdc"
+    url = "https://github.com/JuliaBinaryWrappers/Lean4_jll.jl/releases/download/Lean4-v4.35.0+0/Lean4.v4.35.0.x86_64-linux-musl-cxx11.tar.gz"
